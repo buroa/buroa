@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**buroa/buroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/buroa?logo=GitHub&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/buroa?logo=github&style=for-the-badge)
 
-Here are some ideas to get you started:
+# 👋 Hi!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm [Steven Kreitzer](https://skre.me), a ~~software~~/~~security~~/~~reliability~~ engineer and homelab enthusiast. I'm a total tinkerer.
+
+# 📊 My Stats
+
+![Buroa's github stats](https://github-readme-stats.vercel.app/api?username=buroa&show_icons=true&count_private=true&theme=radical&hide=stars)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=buroa&theme=dark&count_private=true&theme=radical)
