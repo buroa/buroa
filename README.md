@@ -13,7 +13,7 @@
 ✍️ &nbsp;In my free time, I swim, practice yoga, play video games and tinker in my homelab.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at skre@skre.me. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://skre.me/cv.pdf) for more details about work experience.
+📄 &nbsp;You can check my [resume](https://skre.me/cv.pdf) for more details about work experience.
 
 ### 🛠 &nbsp;Tech Stack
 
