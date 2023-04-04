@@ -26,12 +26,12 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
 ![Envoy](https://img.shields.io/badge/-Envoy-05122A?style=flat&logo=envoyproxy)&nbsp;
-![Cilium](https://img.shields.io/badge/-Cilium-05122A?style=flat&logo=cilium)&nbsp;
+![Cilium](https://img.shields.io/badge/-Cilium-05122A?style=flat&logo=cilium)\
+![Ceph](https://img.shields.io/badge/-Ceph-05122A?style=flat&logo=ceph)&nbsp;
+![Helm](https://img.shields.io/badge/-Helm-05122A?style=flat&logo=helm)&nbsp;
 ![etcd](https://img.shields.io/badge/-etcd-05122A?style=flat&logo=etcd)&nbsp;
 ![containerd](https://img.shields.io/badge/-containerd-05122A?style=flat&logo=containerd)&nbsp;
-![Helm](https://img.shields.io/badge/-Helm-05122A?style=flat&logo=helm)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![Ceph](https://img.shields.io/badge/-Ceph-05122A?style=flat&logo=ceph)\
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
