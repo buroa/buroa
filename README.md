@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a systems reliability engineer at [Cloudflare](https://cloudflare.com), helping build a better Internet. \
+💡 &nbsp;I'm a systems reliability engineer at [Cloudflare](https://cloudflare.com), helping build a better Internet. \
 💻 &nbsp;I'm currently playing with many different [CNCF](https://cncf.io) projects.\
 🌱 &nbsp;I'm keen to learning about Reliability Engineering, Artificial Intelligence, and upcoming CNCF projects.\
 ✍️ &nbsp;In my free time, I swim, practice yoga, play video games and tinker in my homelab.\
