@@ -1,6 +1,6 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 
-![version :2023.04.01](https://img.shields.io/badge/version-2023.04.01-informational) &nbsp;
+![version :2023.04.17](https://img.shields.io/badge/version-2023.04.17-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=buroa&color=red)&nbsp;
 [![github buroa](https://img.shields.io/github/followers/buroa?label=follow&style=social)](https://github.com/buroa)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
@@ -17,7 +17,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![macOS](https://img.shields.io/badge/-macOS-05122A?style=flat&logo=macos)\
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
@@ -35,7 +34,10 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)&nbsp;
+![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-05122A?style=flat&logo=digitalocean)&nbsp;
+![Amazon Web Servives](https://img.shields.io/badge/-Amazon%20Web%20Services-05122A?style=flat&logo=amazonaws)&nbsp;
 
 ### 📫 &nbsp; How to reach me:
 
