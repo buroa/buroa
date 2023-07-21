@@ -1,0 +1,79 @@
+---
+name: Metrics
+
+on:
+  schedule: [{cron: "0 * * * *"}]
+  workflow_dispatch:
+  push:
+
+jobs:
+  github-metrics-light:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Core
+          filename: metrics/light.svg
+          config_timezone: America/Chicago
+          committer_message: "chore: update light metrics"
+          
+          # Display
+          template: classic
+          base: header, activity, community
+          config_animations: yes
+          
+          plugin_languages: yes
+          
+          plugin_introduction: yes
+          
+          plugin_followup: yes
+          plugin_followup_sections: user
+          
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+  
+  github-metrics-heavy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Core
+          filename: metrics/heavy.svg
+          config_timezone: America/Chicago
+          committer_message: "chore: update heavy metrics"
+          
+          # Display
+          template: classic
+          base: header, activity, community, repositories
+          config_animations: yes
+          
+          plugin_isocalendar: yes
+          
+          plugin_licenses: yes
+          plugin_licenses_legal: yes
+          
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          
+          plugin_introduction: yes
+          
+          plugin_habits: yes
+          
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          
+          plugin_lines: yes
+          
+          plugin_activity: yes
+          
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          
+          plugin_people: yes
