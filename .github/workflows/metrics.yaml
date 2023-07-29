@@ -125,6 +125,10 @@ jobs:
           plugin_repositories_featured: buroa/k8s-gitops
           plugin_repositories_order: featured, pinned, starred, random
 
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, list
+          plugin_sponsors_past: yes
+
           plugin_sponsorships: yes
           plugin_sponsorships_sections: amount, sponsorships
           plugin_sponsorships_size: 24
